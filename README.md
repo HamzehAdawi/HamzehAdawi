@@ -2,7 +2,7 @@
 
 Software developer focused on building useful software and contributing to open source.
 
-## Projects ⭐
+## My Projects ⭐
 
 ### Frozen Icon RuneLite Plugin 
 - Accepted into the official RuneLite Plugin Hub and gained **32,000+ installs** by the player base
