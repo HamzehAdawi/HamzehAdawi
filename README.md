@@ -1,38 +1,30 @@
-## Hi, 
-Hamzeh Adawi 
+# Hamzeh Adawi
 
-Software developer who enjoys building things, contributing to open source, and turning ideas into software people actually use.
+Software developer focused on building useful software and contributing to open source.
 
-## Featured Project
+## Projects ⭐
 
-### Frozen Icon — RuneLite Plugin
+### Frozen Icon RuneLite Plugin 
+- Accepted into the official RuneLite Plugin Hub and gained **32,000+ installs** by the player base
 
-**32,000+ installs**
+- A RuneLite plugin used by thousands of players to track frozen NPCs during gameplay
 
-A RuneLite plugin used by thousands of players to track frozen NPCs during gameplay.
+- Built and actively maintain as an open-source project
 
-Built and maintained as an open-source project and accepted into the official RuneLite Plugin Hub.
+- View the [GitHub Repo](https://github.com/Omxa/FrozenIcon) and [Frozen Icon's RuneLite page](https://runelite.net/plugin-hub/show/frozen-icon-me)
 
-**[View Frozen Icon →](https://github.com/Omxa/FrozenIcon)**
+### Hot Properties
+- A full-stack property application built from the ground up.
 
----
+### Ollama Home:
+- A web application built around the Ollama ecosystem.
 
-## Other Projects
+## **Projects I've Contributed to ❤️** 
+- CheckStyle
+- OpenRefine
+- SpringWolf
 
-**Hot Properties**
-A full-stack property application built from the ground up.
 
-**Ollama Home**
-A simple web application built around the Ollama ecosystem.
-
-**Open Source Contributions**
-Contributions to **CheckStyle, OpenRefine, and SpringWolf**.
-
----
-
-### What I enjoy
-
-Building useful software • Open source • Backend development • Learning new technologies
 
 <!--
 **HamzehAdawi/HamzehAdawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
