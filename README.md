@@ -20,10 +20,13 @@ Software developer focused on building useful software and contributing to open 
 - A web application built around the Ollama ecosystem.
 
 ## **Projects I've Contributed to ❤️** 
-- CheckStyle
-- OpenRefine
-- SpringWolf
+- [CheckStyle](https://github.com/checkstyle/checkstyle)
+- [OpenRefine](https://github.com/OpenRefine/OpenRefine)
+- [SpringWolf](https://github.com/spring-projects/spring-wolf)
 
+
+<br>
+Thank you for visiting :)
 
 
 <!--
