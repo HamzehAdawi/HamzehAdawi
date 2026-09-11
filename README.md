@@ -2,7 +2,7 @@
 
 Software developer focused on building useful software and contributing to open source.
 
-## My Projects 
+## My Projects
 
 ### Frozen Icon RuneLite Plugin ⭐
 - Accepted into the official RuneLite Plugin Hub and gained **32,000+ installs** by the player base
@@ -16,10 +16,10 @@ Software developer focused on building useful software and contributing to open 
 ### Hot Properties
 - A full-stack property application built from the ground up.
 
-### Ollama Home:
+### _Ollama Home_
 - A web application built around the Ollama ecosystem.
 
-## **Projects I've Contributed to ** 
+## Projects I've Contributed to:  
 - [CheckStyle](https://github.com/checkstyle/checkstyle)
 - [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 - [SpringWolf](https://github.com/springwolf/springwolf-core)
