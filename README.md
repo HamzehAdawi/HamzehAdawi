@@ -1,4 +1,4 @@
-# Hamzeh Adawi
+# Hamzeh Adawi (omxa)
 
 Software developer focused on building useful software and contributing to open source.
 
