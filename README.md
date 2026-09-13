@@ -12,7 +12,7 @@ Software developer focused on building useful software and contributing to open 
 - Built and actively maintain as an open-source project
 
 - View the [Updates](https://github.com/runelite/plugin-hub/pull/13239) and [Frozen Icon's RuneLite page](https://runelite.net/plugin-hub/show/frozen-icon-me)
-- [Repository](https://github.com/HamzehAdawi/FrozenIcon)
+- Check out the [Github Repo](https://github.com/HamzehAdawi/FrozenIcon)
 
 ### Hot Properties
 - A full-stack property application built from the ground up.
