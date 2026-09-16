@@ -1,8 +1,8 @@
 <div align="center">
-<h1>Hamzeh Adawi</h1>
+<h3>Hamzeh Adawi</h3>
 </div>
 
-Software developer focused on building purposeful software and contributing to open source. <br>Actively seeking a role as a full time developer. 
+Software developer focused on building purposeful software and contributing to open source. Actively seeking a role as a full time developer. 
 
 ## My Projects
 
@@ -30,6 +30,7 @@ reports how much time remains on each effect.
 ## Projects I've Contributed to:  
 [CheckStyle](https://github.com/checkstyle/checkstyle) • [OpenRefine](https://github.com/OpenRefine/OpenRefine) • [SpringWolf](https://github.com/springwolf/springwolf-core)
 
+--- 
 
 <br>
 <div align="center">
