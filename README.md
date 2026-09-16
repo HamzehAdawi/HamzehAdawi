@@ -30,7 +30,9 @@ including how much time remains on each effect.
 
 
 <br>
+<div align="center">
 Thank you for visiting ❤️
+</div>
 
 
 <!--
