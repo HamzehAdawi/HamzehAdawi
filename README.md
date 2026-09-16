@@ -16,7 +16,7 @@ Software developer focused on building purposeful software and contributing to o
 - View the [Updates](https://github.com/runelite/plugin-hub/pull/13239) and [Frozen Icon's RuneLite page](https://runelite.net/plugin-hub/show/frozen-icon-me)
 
 
-**Cool, but what is it?** <br>
+**What exactly is it?** <br>
 A plugin for RuneLite, a third-party client for the video game Old School RuneScape.<br>
 The plugin tracks and displays frozen status and other spell effects on the player, <br>
 reports how much time remains on each effect.
