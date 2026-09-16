@@ -14,7 +14,7 @@ Software developer focused on building useful software and contributing to open 
 - Built and actively maintain as an open-source project
   
 - View the [Updates](https://github.com/runelite/plugin-hub/pull/13239) and [Frozen Icon's RuneLite page](https://runelite.net/plugin-hub/show/frozen-icon-me)
-- Check out the [Github Repo]
+
 
 **Cool, but what is it?** <br>
 A plugin for RuneLite, a third-party client for the video game Old School RuneScape.<br>
