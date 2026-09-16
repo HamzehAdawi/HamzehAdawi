@@ -19,7 +19,7 @@ Software developer focused on building purposeful software and contributing to o
 **Cool, but what is it?** <br>
 A plugin for RuneLite, a third-party client for the video game Old School RuneScape.<br>
 The plugin tracks and displays frozen status and other spell effects on the player, <br>
-including how much time remains on each effect.
+reports how much time remains on each effect.
 
 ### [Hot Properties](github.com/HamzehAdawi/HotProperties)
 - A full-stack property application built from the ground up.
