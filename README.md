@@ -4,7 +4,7 @@ Software developer focused on building useful software and contributing to open 
 
 ## My Projects
 
-### Frozen Icon RuneLite Plugin ⭐
+### _Frozen Icon_ RuneLite Plugin ⭐
 - Accepted into the official RuneLite Plugin Hub and gained **32,000+ installs** by the player base
 
 - A RuneLite plugin used by thousands of players to track frozen NPCs during gameplay
@@ -14,7 +14,7 @@ Software developer focused on building useful software and contributing to open 
 - View the [Updates](https://github.com/runelite/plugin-hub/pull/13239) and [Frozen Icon's RuneLite page](https://runelite.net/plugin-hub/show/frozen-icon-me)
 - Check out the [Github Repo](https://github.com/HamzehAdawi/FrozenIcon)
 
-### Hot Properties
+### _Hot Properties_
 - A full-stack property application built from the ground up.
 
 ### _Ollama Home_
