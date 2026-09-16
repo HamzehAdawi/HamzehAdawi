@@ -1,4 +1,6 @@
-# Hamzeh Adawi 
+<div align="center">
+<h1>Hamzeh Adawi</h1>
+</div>
 
 Software developer focused on building useful software and contributing to open source. Actively seeking a role as a full time developer. 
 
