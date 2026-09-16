@@ -2,7 +2,7 @@
 <h1>Hamzeh Adawi</h1>
 </div>
 
-Software developer focused on building useful software and contributing to open source. Actively seeking a role as a full time developer. 
+Software developer focused on building purposeful software and contributing to open source. <br>Actively seeking a role as a full time developer. 
 
 ## My Projects
 
