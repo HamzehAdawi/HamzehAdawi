@@ -1,6 +1,6 @@
 # Hamzeh Adawi (omxa)
 
-Software developer focused on building useful software and contributing to open source.
+Software developer focused on building useful software and contributing to open source. Actively seeking a role as a full time developer. 
 
 ## My Projects
 
