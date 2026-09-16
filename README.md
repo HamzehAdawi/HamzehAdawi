@@ -26,9 +26,7 @@ including how much time remains on each effect.
 - A web application built around the Ollama ecosystem.
 
 ## Projects I've Contributed to:  
-- [CheckStyle](https://github.com/checkstyle/checkstyle)
-- [OpenRefine](https://github.com/OpenRefine/OpenRefine)
-- [SpringWolf](https://github.com/springwolf/springwolf-core)
+[CheckStyle](https://github.com/checkstyle/checkstyle), [OpenRefine](https://github.com/OpenRefine/OpenRefine), [SpringWolf](https://github.com/springwolf/springwolf-core)
 
 
 <br>
