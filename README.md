@@ -30,7 +30,7 @@ reports how much time remains on each effect.
 ### Contributed To:  
 [CheckStyle](https://github.com/checkstyle/checkstyle) • [OpenRefine](https://github.com/OpenRefine/OpenRefine) • [SpringWolf](https://github.com/springwolf/springwolf-core)
 
---- 
+<h1></h1>
 
 <br>
 <div align="center">
