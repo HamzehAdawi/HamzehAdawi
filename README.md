@@ -27,7 +27,7 @@ reports how much time remains on each effect.
 ### [Ollama Home](https://github.com/HamzehAdawi/OllamaHome)
 - A web application built around the Ollama ecosystem.
 
-### Contributed to:  
+### Contributed To:  
 [CheckStyle](https://github.com/checkstyle/checkstyle) • [OpenRefine](https://github.com/OpenRefine/OpenRefine) • [SpringWolf](https://github.com/springwolf/springwolf-core)
 
 --- 
