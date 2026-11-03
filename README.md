@@ -7,13 +7,13 @@ Software developer focused on building purposeful software and contributing to o
 ---
 ### Contributions:  
 [CheckStyle](https://github.com/checkstyle/checkstyle) • [OpenRefine](https://github.com/OpenRefine/OpenRefine) • [SpringWolf](https://github.com/springwolf/springwolf-core)
+<br>
 
 ### Projects:
-
 #### [Frozen Icon](https://github.com/HamzehAdawi/FrozenIcon) _RuneLite Plugin_ ⭐
 - Developed the frozen icon plugin for the RuneLite Plugin Hub project
 
-- Gained **32,000+ installs** by the player base
+- Gained **35,000+ installs** by the player base
 
 - I continue to actively maintain this project 
   
