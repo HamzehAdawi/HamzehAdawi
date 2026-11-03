@@ -1,5 +1,3 @@
-<div align="center">
-<h3>Hamzeh Adawi</h3>
 </div>
 
 Software developer focused on building purposeful software and contributing to open source I support. Actively seeking a full time role. 
