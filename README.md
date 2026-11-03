@@ -10,7 +10,7 @@ Software developer focused on building purposeful software and contributing to o
 
 ### Projects:
 
-### [Frozen Icon](https://github.com/HamzehAdawi/FrozenIcon) _RuneLite Plugin_ ⭐
+#### [Frozen Icon](https://github.com/HamzehAdawi/FrozenIcon) _RuneLite Plugin_ ⭐
 - Developed the frozen icon plugin for the RuneLite Plugin Hub project
 
 - Gained **32,000+ installs** by the player base
@@ -24,10 +24,10 @@ A plugin for RuneLite, a third-party client for the video game Old School RuneSc
 The plugin tracks and displays frozen status and other spell effects on the player, <br>
 reports how much time remains on each effect.
 
-### [Hot Properties](github.com/HamzehAdawi/HotProperties)
+#### [Hot Properties](github.com/HamzehAdawi/HotProperties)
 - A full-stack property application built from the ground up.
 
-### [Ollama Home](https://github.com/HamzehAdawi/OllamaHome)
+#### [Ollama Home](https://github.com/HamzehAdawi/OllamaHome)
 - A web application built around the Ollama ecosystem.
 
 
