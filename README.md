@@ -2,18 +2,22 @@
 <h3>Hamzeh Adawi</h3>
 </div>
 
-Software developer focused on building purposeful software and contributing to open source. Actively seeking a full time role. 
+Software developer focused on building purposeful software and contributing to open source I support. Actively seeking a full time role. 
 
-## My Projects
+---
+### Contributions:  
+[CheckStyle](https://github.com/checkstyle/checkstyle) • [OpenRefine](https://github.com/OpenRefine/OpenRefine) • [SpringWolf](https://github.com/springwolf/springwolf-core)
+
+### Projects:
 
 ### [Frozen Icon](https://github.com/HamzehAdawi/FrozenIcon) _RuneLite Plugin_ ⭐
-- Developed frozen icon plugin for the official RuneLite Plugin Hub project
+- Developed the frozen icon plugin for the RuneLite Plugin Hub project
 
 - Gained **32,000+ installs** by the player base
 
-- Built and actively maintain as an open-source project
+- I continue to actively maintain this project 
   
-- View the [Updates](https://github.com/runelite/plugin-hub/pull/13239) and [Frozen Icon's RuneLite page](https://runelite.net/plugin-hub/show/frozen-icon-me)
+- Track the [updates](https://github.com/runelite/plugin-hub/pull/13239) and see the [my plugin's RuneLite page](https://runelite.net/plugin-hub/show/frozen-icon-me)
 
 <br>
 A plugin for RuneLite, a third-party client for the video game Old School RuneScape.<br>
@@ -26,8 +30,6 @@ reports how much time remains on each effect.
 ### [Ollama Home](https://github.com/HamzehAdawi/OllamaHome)
 - A web application built around the Ollama ecosystem.
 
-### Contributed To:  
-[CheckStyle](https://github.com/checkstyle/checkstyle) • [OpenRefine](https://github.com/OpenRefine/OpenRefine) • [SpringWolf](https://github.com/springwolf/springwolf-core)
 
 <h1></h1>
 
