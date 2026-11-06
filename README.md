@@ -4,7 +4,7 @@ Software developer focused on building purposeful software and contributing to o
 
 ---
 ### Contributions:  
-[CheckStyle](https://github.com/checkstyle/checkstyle) • [OpenRefine](https://github.com/OpenRefine/OpenRefine) • [SpringWolf](https://github.com/springwolf/springwolf-core)
+[CheckStyle](https://github.com/checkstyle/checkstyle) • [OpenRefine](https://github.com/OpenRefine/OpenRefine) • [SpringWolf](https://github.com/springwolf/springwolf-core) • [Runelite plugin-hub](https://github.com/runelite/plugin-hub)
 <br>
 
 ### Projects:
