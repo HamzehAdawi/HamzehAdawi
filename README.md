@@ -1,6 +1,6 @@
 </div>
 
-Software developer focused on building purposeful software and contributing to open source I support. Actively seeking a full time role. 
+Software developer focused on building helpful software. I contribute to open source I support. Actively seeking a full time role. 
 
 ---
 ### Contributions:  
