@@ -8,7 +8,7 @@ Software developer focused on building helpful software. I contribute to open so
 <br>
 
 ### Projects:
-#### [Frozen Icon](https://github.com/HamzehAdawi/FrozenIcon) _RuneLite Plugin_ ⭐
+#### [Frozen Icon](https://github.com/HamzehAdawi/FrozenIcon) _RuneLite Plugin_ 
 - Developed the frozen icon plugin for the RuneLite Plugin Hub project
 
 - Gained **35,000+ installs** by the player base
